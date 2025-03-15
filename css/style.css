@@ -82,6 +82,7 @@ License: copyright commercial
   --headings-color: var(--theme-color2);
   --link-color: var(--theme-color1);
   --link-hover-color: var(--theme-color1);
+  --text-font: "Kumbh Sans", sans-serif;
   --title-font: "Jost", sans-serif;
   --body-font-size: 16px;
   --body-line-height: 30px;
